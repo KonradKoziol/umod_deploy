@@ -1,0 +1,22 @@
+{
+  "name": "fast_dwnld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonradKoziol/umod_deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonradKoziol/umod_deploy/issues"
+  },
+  "homepage": "https://github.com/KonradKoziol/umod_deploy#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
